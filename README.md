@@ -27,5 +27,3 @@
 
 # This web app is still in its rudimentary state and has potential to help many users across the world.
 
-![Image of ASSIST-ME](https://github.com/VishwajeetJK/MediCaretaker/blob/main/homepage/MC%2B.png)
-
