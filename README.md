@@ -11,7 +11,7 @@
 
 # Next comes the first tool that predicts the disease based on basic symptoms and recommend the medicine and proper dosage to tackle the situation temporarily.
 
-![Image of ASSIST-ME](https://github.com/VishwajeetJK/MediCaretaker/blob/main/screenshots/3.png)
+![Image of ASSIST-ME](https://github.com/VishwajeetJK/MediCaretaker/blob/main/screenshots/3.1.png)
 
 # After that comes the tool to predict the annual health insurance premium based on basic factors such as age, bmi etc. This tool can educate users about the importance of insurance especially for people under poverty line. 
 
@@ -27,5 +27,5 @@
 
 # This web app is still in its rudimentary state and has potential to help many users across the world.
 
-![Image of ASSIST-ME](https://github.com/VishwajeetJK/MediCaretaker/blob/main/homepage/MEDICARETAKER.png)
+![Image of ASSIST-ME](https://github.com/VishwajeetJK/MediCaretaker/blob/main/homepage/MC%2B.png)
 
